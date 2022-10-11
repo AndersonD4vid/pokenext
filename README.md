@@ -1,5 +1,5 @@
 # Consultar  Pokémons
-Veja detalhadamente todos os dados dos pokémons e suas habilidades.
+Veja todos os dados dos pokémons e suas habilidades.
 
 ##
 <br/><br/>
